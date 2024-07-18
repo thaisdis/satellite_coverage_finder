@@ -1,1 +1,1 @@
-# satellite_coverage_finder
+# Satellite coverage finder
